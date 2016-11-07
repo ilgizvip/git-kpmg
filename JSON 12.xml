@@ -138,6 +138,7 @@
 			</Attribute>
 			<Form>ФормаУпр</Form>
 			<Form>ФормаОбычная</Form>
+			<Template>ЗапросОстатки</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
